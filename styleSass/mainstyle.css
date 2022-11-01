@@ -367,7 +367,6 @@ body a:focus {
   line-height: 150%;
 }
 .caso-exito .caso-exito-flex .caso-exito-text p {
-  font-size: 18px;
   line-height: 150%;
 }
 .caso-exito .caso-exito-flex .caso-exito-img {
@@ -482,9 +481,9 @@ body a:focus {
 .personaliza-amr .personaliza-amr-flex .personaliza-amr-populares {
   text-align: center;
 }
-.personaliza-amr .personaliza-amr-flex .personaliza-amr-populares h3 {
-  padding-top: 1em;
-  padding-bottom: 1em;
+.personaliza-amr .personaliza-amr-flex .personaliza-amr-populares .titulo-populares {
+  padding-top: 4em;
+  padding-bottom: 3em;
 }
 .personaliza-amr .personaliza-amr-flex .personaliza-amr-populares .personaliza-amr-populares-items {
   justify-content: center;
@@ -696,4 +695,14 @@ body a:focus {
   text-align: center;
   border: none;
   background-color: #c58d15;
-}/*# sourceMappingURL=mainstyle.css.map */
+}
+
+/* Large devices (large desktops, 1200px and up) */
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+  .caracteristicas-amr-items {
+    flex-direction: column;
+  }
+}
+/* Landscape phone to portrait tablet */
+/* Landscape phones and down *//*# sourceMappingURL=mainstyle.css.map */
