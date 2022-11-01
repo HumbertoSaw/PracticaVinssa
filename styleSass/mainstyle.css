@@ -483,8 +483,8 @@ body a:focus {
   text-align: center;
 }
 .personaliza-amr .personaliza-amr-flex .personaliza-amr-populares h3 {
-  padding-top: 4em;
-  padding-bottom: 3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 .personaliza-amr .personaliza-amr-flex .personaliza-amr-populares .personaliza-amr-populares-items {
   justify-content: center;
@@ -606,7 +606,7 @@ body a:focus {
 .boletin {
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color: rgb(48, 48, 48);
+  background-color: #3b3b3b;
   color: white;
 }
 .boletin .boletin-flex {
@@ -632,7 +632,7 @@ body a:focus {
   padding: 10px 15px;
   text-align: center;
   border: none;
-  background-color: rgb(209, 123, 24);
+  background-color: #e97719;
 }
 
 .pie-pagina {
@@ -695,5 +695,5 @@ body a:focus {
   padding: 10px 20px;
   text-align: center;
   border: none;
-  background-color: rgb(209, 123, 24);
+  background-color: #c58d15;
 }/*# sourceMappingURL=mainstyle.css.map */
