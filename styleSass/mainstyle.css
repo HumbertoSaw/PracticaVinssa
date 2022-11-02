@@ -247,8 +247,8 @@ body a:focus {
 .como-ayudamos .como-ayudamos-respuesta {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  -moz-column-gap: 1em;
-       column-gap: 1em;
+  -moz-column-gap: 3em;
+       column-gap: 3em;
   margin: 0 auto;
 }
 .como-ayudamos .como-ayudamos-respuesta .razon {
