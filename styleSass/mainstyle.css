@@ -230,7 +230,7 @@ body a:focus {
   flex-direction: column;
 }
 .como-ayudamos .como-ayudamos-pregunta {
-  margin-bottom: 2em;
+  margin-bottom: 4em;
 }
 .como-ayudamos .como-ayudamos-pregunta h2 {
   font-weight: 700;
@@ -430,7 +430,7 @@ body a:focus {
   margin-bottom: 1em;
 }
 .caracteristicas-amr .caracteristicas-amr-flex .caracteristicas-amr-productos .caracteristicas-amr-items .item img {
-  max-width: 300px;
+  max-width: 350px;
   width: 100%;
 }
 .caracteristicas-amr .caracteristicas-amr-flex .caracteristicas-amr-productos .caracteristicas-amr-items .item .item-description {
